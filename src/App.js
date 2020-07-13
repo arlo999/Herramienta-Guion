@@ -1,7 +1,7 @@
 
 import React, { Component } from "react";
 import { render } from "react-dom";
-import logo from './logo.svg';
+
 import Simpletextarea from './Herramienta'
 import './App.css';
 import { Grid, Col, Row } from 'react-flexbox-grid';

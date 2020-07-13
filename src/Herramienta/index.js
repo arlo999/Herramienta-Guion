@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import style from './style.css'
+
 class Simpletextarea extends Component {
   constructor() {
     super();
